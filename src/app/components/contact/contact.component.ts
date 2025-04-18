@@ -37,7 +37,7 @@ import { ThemeService } from '../../services/theme.service';
               </div>
               <div class="info-content">
                 <h3>Email</h3>
-                <p><a href="mailto:ayushtiwari163@gmail.com">mail</a></p>
+                <p><a href="mailto:ayushtiwari163@gmail.com">ayushtiwari163&#64;gmail.com</a></p>
               </div>
             </div>
             
