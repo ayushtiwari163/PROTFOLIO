@@ -12,7 +12,7 @@ import { ThemeService } from '../../services/theme.service';
         <div class="footer-content">
           <div class="footer-logo">
             <a href="#home">Ayush<span>Tiwari</span></a>
-            <p>Software Engineer</p>
+            <p>Senior Software Engineer</p>
           </div>
           
           <div class="footer-links">
